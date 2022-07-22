@@ -1,4 +1,6 @@
     {
+    "users" [
+    {
       id: 1,
       name: "Danilo",
       lastname: "Vesovic",
@@ -12,3 +14,5 @@
       phone: "22-11-11",
       email: "dsaaaas@gmai.com",
     },
+    ]
+}
