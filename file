@@ -1,5 +1,4 @@
-    {
-    "users" [
+"users" [
     {
       id: 1,
       name: "Danilo",
@@ -15,4 +14,4 @@
       email: "dsaaaas@gmai.com",
     },
     ]
-}
+
