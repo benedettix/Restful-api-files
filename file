@@ -1,13 +1,16 @@
-[{
-	"id": 1,
-	"name": "Danilo",
-	"lastname": "Vesovic",
-	"phone": "11-11-11",
-	"email": "lukagmail@gmai.com"
-}, {
-	"id": 2,
-	"name": "Dragan",
-	"lastname": "Zajic",
-	"phone": "22-11-11",
-	"email": "dsaaaas@gmai.com"
-}]
+[
+  {
+    "id": 1,
+    "name": "Danilo",
+    "lastname": "Vesovic",
+    "phone": "11-11-11",
+    "email": "lukagmail@gmai.com"
+  },
+  {
+    "id": 2,
+    "name": "Dragan",
+    "lastname": "Zajic",
+    "phone": "22-11-11",
+    "email": "dsaaaas@gmai.com"
+  }
+]
